@@ -1,0 +1,2 @@
+# dclsFYP2018
+DCLS is a Codeigniter based web application. It is the system which has three features for student. First is Donation system which provides the interface for donors to pay fee of the eligible student via Stripe payment gateway. Second is Counseling System which conducts a psychological based test for students to find out his field of interest and suggest his interest as result, and Third is Learning System which has Courses video tutorials and teacher notes which also include password protection feature for teachers to secure his notes from other students.
